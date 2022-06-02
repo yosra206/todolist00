@@ -1,0 +1,42 @@
+    table {
+        width: 90%;
+        margin: 40px auto;
+    }
+    
+    table.list {
+        text-align: center;
+        width: 100%;
+    }
+    
+    input[type="submit"] {
+        background: blue;
+        color: white;
+        padding: 6px 12px;
+        margin: 15px 0 10px;
+        display: inline-block;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+    
+    .btn1 {
+        background: rgb(37, 126, 37);
+        color: white;
+        padding: 6px 12px;
+        margin: 15px 0 10px;
+        display: inline-block;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+    
+    .btn2 {
+        background: rgb(190, 54, 54);
+        color: white;
+        padding: 6px 12px;
+        margin: 15px 0 10px;
+        display: inline-block;
+        border: none;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
